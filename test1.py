@@ -1,3 +1,3 @@
 print("Hello")
-print("World")
+b = 7
 a = 5 + 6
